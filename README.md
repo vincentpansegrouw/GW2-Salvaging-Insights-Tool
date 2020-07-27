@@ -1,2 +1,2 @@
-# GW2 Trading Post Tool
- An Excel based tool based on Silveress' API, for performing analysis on player-to-player trading data, as well as raw item data.
+# GW2 Salvaging Insights Tool
+ GW2 Salvaging Insights Tool is an analysis tool designed for maximising profits and directing player engagement with the in game marketplace and item salvaging mechanics.
