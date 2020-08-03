@@ -1,0 +1,21 @@
+GW2 API research
+
+api.guildwars2.com/v2
+
+brings up list of useable keys
+
+items of initial interest are:
+
+/items/<id>
+
+/commerce/prices/<id>
+
+/commerce/listings/<id>
+
+/account/inventory 
+
+/account/bank
+
+/characters/:id/inventory
+
+when accessing API-protected sections, add a "?access_token=<yourApiKeyHere>" to the end of the HTTP request.
